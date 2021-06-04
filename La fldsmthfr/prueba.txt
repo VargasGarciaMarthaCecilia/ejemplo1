@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -40,28 +39,3 @@ oiewox
 >>>>>>> main
 >>>>>>> main
 >>>>>>> main
-=======
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-Joshua estuvo aqui 
-=======
-<<<<<<< HEAD
-CambiosCambios
-Vargas
-Garcia
-147852369*632481684
-=======
-=======
->>>>>>> Stashed changes
-queueMicrotaskfw
-vme
-
-
-<<<<<<< Updated upstream
-oiewox
->>>>>>> main
->>>>>>> main
-=======
-oiewox
->>>>>>> Stashed changes
->>>>>>> Stashed changes
