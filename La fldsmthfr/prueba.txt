@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Holaaaa.
 =======
 <<<<<<< HEAD
@@ -7,6 +8,12 @@ CambiosCambios
 Vargas
 Garcia
 =======
+=======
+queueMicrotaskfw
+vme
+=======
+<<<<<<< HEAD
+>>>>>>> main
 Joshua estuvo aqui 
 =======
 <<<<<<< HEAD
@@ -21,8 +28,14 @@ vme
 <<<<<<< HEAD
 >>>>>>> main
 =======
+juyhgtfrdeswedfrtgyhnjm
+mjnhgvfrcecrfvtgbhj
+kmjnhygtrfedrftgh
+mkjnhgvfcxecrtvyu
+kmjnhcrvtyhjukl
 
 
 oiewox
+>>>>>>> main
 >>>>>>> main
 >>>>>>> main
