@@ -1,15 +1,2 @@
-<<<<<<< HEAD
-CambiosCambios
-Vargas
-Garcia
-147852369*632481684
-=======
 queueMicrotaskfw
 vme
-<<<<<<< HEAD
->>>>>>> main
-=======
-
-
-oiewox
->>>>>>> main
