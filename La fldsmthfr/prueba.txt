@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+queueMicrotaskfw
+vme
+=======
+<<<<<<< HEAD
 Joshua estuvo aqui 
 =======
 <<<<<<< HEAD
@@ -12,8 +16,14 @@ vme
 <<<<<<< HEAD
 >>>>>>> main
 =======
+juyhgtfrdeswedfrtgyhnjm
+mjnhgvfrcecrfvtgbhj
+kmjnhygtrfedrftgh
+mkjnhgvfcxecrtvyu
+kmjnhcrvtyhjukl
 
 
 oiewox
+>>>>>>> main
 >>>>>>> main
 >>>>>>> main
