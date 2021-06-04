@@ -1,7 +1,26 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Holaaaa.
+=======
+<<<<<<< HEAD
 CambiosCambios
 Vargas
 Garcia
+=======
+=======
+queueMicrotaskfw
+vme
+=======
+<<<<<<< HEAD
+>>>>>>> main
+Joshua estuvo aqui 
+=======
+<<<<<<< HEAD
+CambiosCambios
+Vargas
+Garcia
+>>>>>>> main
 147852369*632481684
 =======
 queueMicrotaskfw
@@ -9,7 +28,14 @@ vme
 <<<<<<< HEAD
 >>>>>>> main
 =======
+juyhgtfrdeswedfrtgyhnjm
+mjnhgvfrcecrfvtgbhj
+kmjnhygtrfedrftgh
+mkjnhgvfcxecrtvyu
+kmjnhcrvtyhjukl
 
 
 oiewox
+>>>>>>> main
+>>>>>>> main
 >>>>>>> main
